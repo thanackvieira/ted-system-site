@@ -14,6 +14,10 @@ export const empresa = {
     },
     {
       titulo: "Transparência e parceria",
+      descricao: "Dedicação em cada detalhe para entregar soluções eficientes, confiáveis e que geram valor para nossos clientes."
+    },
+    {
+      titulo: "Compromisso com a qualidade",
       descricao: "Comunicação clara e honesta, tratando cada cliente como um parceiro de longo prazo."
     },
     {
@@ -41,6 +45,13 @@ export const empresa = {
       foto: "/images/wanderson.jpg",
       alt: "Foto de Wanderson de Vasconcelos",
       descricao: "Fundador da TED System, começou desenvolvendo sistemas de gestão para comércios locais do interior do Nordeste."
+    },
+    {
+      nome: "Lucas Almeida",
+      cargo: "CTO e Desenvolvedor Full Stack",
+      foto: " ",
+      alt: "Foto de Lucas Almeida",
+      descricao: "Responsável pela arquitetura e desenvolvimento das soluções da TED System, trabalha para transformar ideias em sistemas modernos, seguros e eficientes.npm"
     },
     {
       nome: "Sheldon Cooper",
